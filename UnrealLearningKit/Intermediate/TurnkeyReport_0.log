@@ -1,0 +1,3 @@
+Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites")
+IOS: (Status=Valid, Installed=12.5.1, AutoSDK=, MinAllowed=11.0.0, MaxAllowed=13.9.9, Flags="InstalledSdk_ValidVersionExists")
+Mac: (Status=Valid, Installed=12.5.1, AutoSDK=, MinAllowed=11.0.0, MaxAllowed=13.9.9, Flags="InstalledSdk_ValidVersionExists")
